@@ -18,3 +18,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evan-roberts-808&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="evan-roberts-808" /></p>
+
+<h3 align="left">Heres What I'm Listening To:</h3>
+<a href="https://www.data-card-for-spotify.com/card?user_id=leoslastwill">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=leoslastwill" alt="Data Card for Spotify">
+</a>
