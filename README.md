@@ -13,11 +13,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></a> </p>
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evan-roberts-808&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="evan-roberts-808" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evan-roberts-808&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="evan-roberts-808" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evan-roberts-808&show_icons=true&locale=en&theme=tokyonight" alt="evan-roberts-808" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
 
 <h3 align="left">&nbsp;Heres What I'm Listening To:</h3>
 
