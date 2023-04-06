@@ -3,7 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/evan-roberts-76801621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan-roberts-76801621a" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/evan-roberts-76801621a" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
+  <a href="https://codepen.io/LeosLastWill" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codepen.svg" /></a>
+  <a href="https://www.behance.net/evanroberts3" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/behance.svg" /></a>
+  <a href="https://www.instagram.com/evanroberts.art/" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,11 +14,8 @@
 
 <h3 align="left">Stats:</h3>
 
-<p>&nbsp;<img align="center" src="hhttps://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evan-roberts-808&&show_icons=true&theme=tokyonight" alt="evan-roberts-808" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evan-roberts-808&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="evan-roberts-808" /></p>
+<p><img align="center" src="https://github-readme-stats-evan-roberts-808.vercel.app/api?username=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-roberts-808&layout=compact&theme=tokyonight" />
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></a></p>
