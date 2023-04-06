@@ -11,7 +11,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evan-roberts-808&show_icons=true&locale=en&theme=tokyonight" alt="evan-roberts-808" /></p>
+<p>&nbsp;<img align="center" src="hhttps://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evan-roberts-808&&show_icons=true&theme=tokyonight" alt="evan-roberts-808" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
 
