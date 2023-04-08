@@ -3,14 +3,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/evan-roberts-76801621a" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
-  <a href="https://codepen.io/LeosLastWill" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codepen.svg" /></a>
-  <a href="https://www.behance.net/evanroberts3" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/behance.svg" /></a>
-  <a href="https://www.instagram.com/evanroberts.art/" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" /></a>
+  <a href="https://linkedin.com/in/evan-roberts-76801621a" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/linkedin/0A66C2" /></a>
+  <a href="https://codepen.io/LeosLastWill" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/codepen/000000" /></a>
+  <a href="https://www.behance.net/evanroberts3" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/behance/1769FF" /> </a>
+  <a href="https://www.instagram.com/evanroberts.art/" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/instagram/E4405F" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <img height="40" width="40" src="https://simpleicons.vercel.app/adobeillustrator/FF9A00" /> <img height="40" width="40" src="https://simpleicons.vercel.app/adobephotoshop/31A8FF" /> <img height="40" width="40" src="https://simpleicons.vercel.app/adobeindesign/FF3366" /> <img height="40" width="40" src="https://simpleicons.vercel.app/adobeaftereffects/9999FF" /> 
+
+
+
+</p>
 
 <h3 align="left">Stats:</h3>
 
