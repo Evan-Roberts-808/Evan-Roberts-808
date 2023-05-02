@@ -19,6 +19,7 @@
 
 <h3 align="left">Stats:</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Evan-Roberts-808&theme=tokyonight)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats-evan-roberts-808.vercel.app/api?username=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-roberts-808&layout=compact&theme=tokyonight" />
 
