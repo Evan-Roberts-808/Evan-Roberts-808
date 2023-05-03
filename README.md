@@ -3,11 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://robertsevan.com"><img align="left" alt="robertsevan.com" height="40px" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-  <a href="https://linkedin.com/in/evan-roberts-76801621a" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/linkedin/0A66C2" /></a>
-  <a href="https://codepen.io/LeosLastWill" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/codepen/000000" /></a>
-  <a href="https://www.behance.net/evanroberts3" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/behance/1769FF" /> </a>
-  <a href="https://www.instagram.com/evanroberts.art/" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/instagram/E4405F" /></a>
+  <a href="https://robertsevan.com" target="_blank"><img align="left" alt="robertsevan.com" height="40px" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://linkedin.com/in/evan-roberts-76801621a" target="_blank"><img height="40" width="40" src="https://simpleicons.vercel.app/linkedin/0A66C2" /></a>
+  <a href="https://medium.com/@robertsevan" target="_blank"><img height="40" width="40" src="https://simpleicons.vercel.app/medium/ffffff" /></a>
+  <a href="https://codepen.io/LeosLastWill" target="_blank"><img height="40" width="40" src="https://simpleicons.vercel.app/codepen/000000" /></a>
+  <a href="https://www.behance.net/evanroberts3" target="_blank"><img height="40" width="40" src="https://simpleicons.vercel.app/behance/1769FF" /> </a>
+  <a href="https://www.instagram.com/evanroberts.art/" target="_blank"><img height="40" width="40" src="https://simpleicons.vercel.app/instagram/E4405F" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
