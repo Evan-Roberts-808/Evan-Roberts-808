@@ -23,6 +23,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Evan-Roberts-808&theme=tokyonight)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats-evan-roberts-808.vercel.app/api?username=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-roberts-808&layout=compact&theme=tokyonight" />
+<img src="https://www.codewars.com/users/Evan-Roberts-808/badges/large" />
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evan-roberts-808&theme=tokyonight" alt="evan-roberts-808" /></a></p>
