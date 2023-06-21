@@ -1,4 +1,4 @@
-![Alt Banner](Banner.svg)
+![Alt Banner](Banner-2.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
