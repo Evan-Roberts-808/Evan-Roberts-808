@@ -53,6 +53,17 @@
     <td><a href="https://github.com/Evan-Roberts-808/PokeDex" target="_blank">Repo</a></td>
     <td><a href="https://evan-roberts-808.github.io/PokeDex/" target="_blank">Demo</a></td>
   </tr>
+  <tr>
+    <td>GunplaPal</td>
+    <td>GunplaPAL is a dedicated database and collection tracker for
+                  Gunpla enthusiasts. Our platform provides a comprehensive
+                  collection of Gunpla kits, making it easier for you to
+                  explore, track, and manage your collection.</td>
+    <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li><li>Flask</li><li>Flask_Restful</li><li>SQLAlchemy</li></ul></td>
+    <td><ul><li>Extensive Gunpla Database with over 3000 model kits</li><li>User profile creation, to sign up and track their collection and wishlist</li><li>Custom Gunpla API created by us</li></ul></td>
+    <td><a href="https://github.com/Evan-Roberts-808/Gunpla-Pal" target="_blank">Repo</a></td>
+    <td>Demo coming soon</td>
+  </tr>
 </tbody>
 </table>
 
