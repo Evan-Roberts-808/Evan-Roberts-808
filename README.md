@@ -76,5 +76,7 @@
 <h3 align="left">&nbsp;Heres What I'm Listening To:</h3>
 
 <p align="left"><a href="https://www.data-card-for-spotify.com/card?user_id=leoslastwill">
-  <img align="center" src="https://www.data-card-for-spotify.com/api/card?user_id=leoslastwill" alt="Data Card for Spotify">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=leoslastwill">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=leoslastwill" alt="Data Card for Spotify">
+</a>
 </a></p>
