@@ -62,7 +62,22 @@
     <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li><li>Flask</li><li>Flask_Restful</li><li>SQLAlchemy</li></ul></td>
     <td><ul><li>Extensive Gunpla Database with over 3000 model kits</li><li>User profile creation, to sign up and track their collection and wishlist</li><li>Custom Gunpla API created by us</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Gunpla-Pal" target="_blank">Repo</a></td>
-    <td>Demo coming soon</td>
+    <td><a href="https://gunplapal.onrender.com" target="_blank">Demo</a></td>
+  </tr>
+  <tr>
+    <td>Chocotonic</td>
+    <td>Chocotonic is a chocolate company with a mission to make a
+                    positive impact on the environment and promote
+                    sustainability. Our passion for creating delicious chocolate
+                    treats goes hand in hand with our commitment to creating a
+                    brighter and greener future.</td>
+    <td><ul><li>React</li><li>React Router V6</li><li>React Bootstrap</li><li>Flask</li><li>Flask-Restful</li><li>Flask-SQLAlchemy</li></td>
+      <td><ul><li>User Creation & Validation</li><li>Full "Hypothetical" Shopping Functionality</li><li>Responsive Design & Custom Designed Products</li></ul></td>
+      <td><a
+                      href="https://github.com/Evan-Roberts-808/Chocotonic"
+                      target="_blank"
+                    >Repo</a></td>
+      <td><a href="https://chocotonic.onrender.com" target="_blank">Demo</a></td>
   </tr>
 </tbody>
 </table>
