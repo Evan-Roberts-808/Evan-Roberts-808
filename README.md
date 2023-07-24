@@ -72,7 +72,7 @@
                     treats goes hand in hand with our commitment to creating a
                     brighter and greener future.</td>
     <td><ul><li>React</li><li>React Router V6</li><li>React Bootstrap</li><li>Flask</li><li>Flask-Restful</li><li>Flask-SQLAlchemy</li></td>
-      <td><ul><li>User Creation & Validation</li><li>Full "Hypothetical" Shopping Functionality</li><li>Responsive Design & Custom Designed Products</li></ul></td>
+      <td><ul><li>User Creation & Validation</li><li>Full "Hypothetical" Shopping Functionality</li><li>CLI for viewing user orders, updating status', and "ordering" product inventory</li><li>Responsive Design & Custom Designed Products</li></ul></td>
       <td><a
                       href="https://github.com/Evan-Roberts-808/Chocotonic"
                       target="_blank"
