@@ -34,6 +34,7 @@
   <th>Tech stack</th>
   <th>Features</th>
   <th>Repo</th>
+  <th>Live</th>
   <th>Demo</th>
 </thead>
 <tbody>
@@ -43,7 +44,8 @@
     <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li></ul></td>
     <td><ul><li>Full CRUD functionality</li><li>Multiple React Hooks</li><li>Internal Routing</li><li>Our own API</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Bites-and-Brews" target="_blank">Repo</a></td>
-    <td><a href="https://main--splendorous-frangollo-74c2dd.netlify.app" target="_blank">Demo</a></td>
+    <td><a href="https://main--splendorous-frangollo-74c2dd.netlify.app" target="_blank">Live</a></td>
+    <td>Soon</td>
   </tr>
   <tr>
     <td>Pokedex</td>
@@ -51,7 +53,8 @@
     <td><ul><li>HTML/CSS</li><li>Vanilla JS</li><li>BootStrap</li></ul></td>
     <td><ul><li>PokeApi Connection</li><li>Responsive Design</li><li>Full CRUD Functionality</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/PokeDex" target="_blank">Repo</a></td>
-    <td><a href="https://evan-roberts-808.github.io/PokeDex/" target="_blank">Demo</a></td>
+    <td><a href="https://evan-roberts-808.github.io/PokeDex/" target="_blank">Live</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>GunplaPal</td>
@@ -62,7 +65,8 @@
     <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li><li>Flask</li><li>Flask_Restful</li><li>SQLAlchemy</li></ul></td>
     <td><ul><li>Extensive Gunpla Database with over 3000 model kits</li><li>User profile creation, to sign up and track their collection and wishlist</li><li>Custom Gunpla API created by us</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Gunpla-Pal" target="_blank">Repo</a></td>
-    <td><a href="https://gunplapal.onrender.com" target="_blank">Demo</a></td>
+    <td><a href="https://gunplapal.onrender.com" target="_blank">Live</a></td>
+    <td>Soon</td>
   </tr>
   <tr>
     <td>Chocotonic</td>
@@ -77,7 +81,8 @@
                       href="https://github.com/Evan-Roberts-808/Chocotonic"
                       target="_blank"
                     >Repo</a></td>
-      <td><a href="https://chocotonic.onrender.com" target="_blank">Demo</a></td>
+      <td><a href="https://chocotonic.onrender.com" target="_blank">Live</a></td>
+      <td>Soon</td>
   </tr>
 </tbody>
 </table>
