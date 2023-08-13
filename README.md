@@ -38,25 +38,7 @@
   <th>Demo</th>
 </thead>
 <tbody>
-  <tr>
-    <td>Bites&Brews</td>
-    <td>Recipe / Cocktail site that allows users to browse meal and cocktail recipes and get the ingredient list and directions. Also allows for favoriting and submitting of recipes as well as getting a pairing recommendation.</td>
-    <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li></ul></td>
-    <td><ul><li>Full CRUD functionality</li><li>Multiple React Hooks</li><li>Internal Routing</li><li>Our own API</li></ul></td>
-    <td><a href="https://github.com/Evan-Roberts-808/Bites-and-Brews" target="_blank">Repo</a></td>
-    <td><a href="https://main--splendorous-frangollo-74c2dd.netlify.app" target="_blank">Live</a></td>
-    <td>Soon</td>
-  </tr>
-  <tr>
-    <td>Pokedex</td>
-    <td>A Pokemon search app built using PokeApi. Allows users to view all 1000+ Pokemon, search for specific Pokemon, filter by gen. or type, and add Pokemon to their favorites</td>
-    <td><ul><li>HTML/CSS</li><li>Vanilla JS</li><li>BootStrap</li></ul></td>
-    <td><ul><li>PokeApi Connection</li><li>Responsive Design</li><li>Full CRUD Functionality</li></ul></td>
-    <td><a href="https://github.com/Evan-Roberts-808/PokeDex" target="_blank">Repo</a></td>
-    <td><a href="https://evan-roberts-808.github.io/PokeDex/" target="_blank">Live</a></td>
-    <td></td>
-  </tr>
-  <tr>
+    <tr>
     <td>GunplaPal</td>
     <td>GunplaPAL is a dedicated database and collection tracker for
                   Gunpla enthusiasts. Our platform provides a comprehensive
@@ -66,7 +48,7 @@
     <td><ul><li>Extensive Gunpla Database with over 3000 model kits</li><li>User profile creation, to sign up and track their collection and wishlist</li><li>Custom Gunpla API created by us</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Gunpla-Pal" target="_blank">Repo</a></td>
     <td><a href="https://gunplapal.onrender.com" target="_blank">Live</a></td>
-    <td>Soon</td>
+    <td><a href="https://youtu.be/RueCd2fHjJM">Demo</a></td>
   </tr>
   <tr>
     <td>Chocotonic</td>
@@ -82,8 +64,27 @@
                       target="_blank"
                     >Repo</a></td>
       <td><a href="https://chocotonic.onrender.com" target="_blank">Live</a></td>
-      <td>Soon</td>
+      <td><a href="https://youtu.be/8Gtq47nJiCY">Demo</a></td>
   </tr>
+  <tr>
+    <td>Bites&Brews</td>
+    <td>Recipe / Cocktail site that allows users to browse meal and cocktail recipes and get the ingredient list and directions. Also allows for favoriting and submitting of recipes as well as getting a pairing recommendation.</td>
+    <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li></ul></td>
+    <td><ul><li>Full CRUD functionality</li><li>Multiple React Hooks</li><li>Internal Routing</li><li>Our own API</li></ul></td>
+    <td><a href="https://github.com/Evan-Roberts-808/Bites-and-Brews" target="_blank">Repo</a></td>
+    <td><a href="https://main--splendorous-frangollo-74c2dd.netlify.app" target="_blank">Live</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pokedex</td>
+    <td>A Pokemon search app built using PokeApi. Allows users to view all 1000+ Pokemon, search for specific Pokemon, filter by gen. or type, and add Pokemon to their favorites</td>
+    <td><ul><li>HTML/CSS</li><li>Vanilla JS</li><li>BootStrap</li></ul></td>
+    <td><ul><li>PokeApi Connection</li><li>Responsive Design</li><li>Full CRUD Functionality</li></ul></td>
+    <td><a href="https://github.com/Evan-Roberts-808/PokeDex" target="_blank">Repo</a></td>
+    <td><a href="https://evan-roberts-808.github.io/PokeDex/" target="_blank">Live</a></td>
+    <td></td>
+  </tr>
+
 </tbody>
 </table>
 
