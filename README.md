@@ -47,7 +47,7 @@
     <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li><li>Flask</li><li>Flask_Restful</li><li>SQLAlchemy</li></ul></td>
     <td><ul><li>Extensive Gunpla Database with over 3000 model kits</li><li>User profile creation, to sign up and track their collection and wishlist</li><li>Custom Gunpla API created by us</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Gunpla-Pal" target="_blank">Repo</a></td>
-    <td><a href="https://gunplapal.onrender.com" target="_blank">Live</a></td>
+    <td><a href="https://gunpla-pal.vercel.app" target="_blank">Live</a></td>
     <td><a href="https://youtu.be/RueCd2fHjJM">Demo</a></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@
                       href="https://github.com/Evan-Roberts-808/Chocotonic"
                       target="_blank"
                     >Repo</a></td>
-      <td><a href="https://chocotonic.onrender.com" target="_blank">Live</a></td>
+      <td><a href="https://chocotonic.vercel.app" target="_blank">Live</a></td>
       <td><a href="https://youtu.be/8Gtq47nJiCY">Demo</a></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
     <td><ul><li>React</li><li>React Router v6</li><li>React-Bootstrap</li></ul></td>
     <td><ul><li>Full CRUD functionality</li><li>Multiple React Hooks</li><li>Internal Routing</li><li>Our own API</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Bites-and-Brews" target="_blank">Repo</a></td>
-    <td><a href="https://main--splendorous-frangollo-74c2dd.netlify.app" target="_blank">Live</a></td>
+    <td><a href="https://bites-and-brews.vercel.app" target="_blank">Live</a></td>
     <td></td>
   </tr>
   <tr>
