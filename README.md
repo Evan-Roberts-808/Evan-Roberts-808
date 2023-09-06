@@ -18,6 +18,7 @@
 <img src="icons8-react-40.png" alt="react" height="60px" width="60px"/>
 <img src="icons8-python-48.png" alt="python" height="60px" width="60px"/>
 <img src="icons8-flask-64.png" alt="flask" height="60px" width="60px"/>
+<img src="icons8-java.svg" alt="java" height="60px" width="60px"/>
 <img height="60px" width="60px" src="icons8-illustrator-48.png" />
 <img height="60px" width="60px" src="icons8-photoshop-48.png" /> 
 <img height="60px" width="60px" src="icons8-adobe-indesign-48.png" /> 
