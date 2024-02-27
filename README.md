@@ -9,21 +9,23 @@
   <a href="https://www.instagram.com/evanroberts.art/" target="_blank"><img height="60px" width="60px" src="icons8-instagram-48.png" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons8-html-48.png" alt="html5" height="60px" width="60px"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons8-css3-48.png" alt="css3" height="60px" width="60px"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons8-js-48.png" alt="javascript" height="60px" width="60px"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons8-bootstrap-48.png" alt="bootstrap" height="60px" width="60px"/> </a> 
-<img src="icons8-react-40.png" alt="react" height="60px" width="60px"/>
-<img src="icons8-python-48.png" alt="python" height="60px" width="60px"/>
-<img src="icons8-flask-64.png" alt="flask" height="60px" width="60px"/>
-<img src="icons8-java.svg" alt="java" height="60px" width="60px"/>
-<img height="60px" width="60px" src="icons8-illustrator-48.png" />
-<img height="60px" width="60px" src="icons8-photoshop-48.png" /> 
-<img height="60px" width="60px" src="icons8-adobe-indesign-48.png" /> 
-<img height="60px" width="60px" src="icons8-adobe-after-effects-48.png" /> 
-
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,py,css,html,java" />
+</a>
+</p>
+<h3 align="left">Technologies:</h3>
+<p align="left"> 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,flask,react,vite" />
+</a>
+</p>
+<h3 align="left">Software:</h3>
+<p align="left"> 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,unity,ps,ai" />
+</a>
 </p>
 <h3><a href="https://gist.github.com/Evan-Roberts-808">View My Gists</a></h3>
 <h3 align="left">Projects:</h3>
