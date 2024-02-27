@@ -1,14 +1,5 @@
 ![Alt Banner](Banner-2.svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://robertsevan.com" target="_blank"><img align="left" alt="robertsevan.com" height="60px" width="60px" src="icons8-website-48.png" /></a>
-  <a href="https://linkedin.com/in/evan-roberts-76801621a" target="_blank"><img height="60px" width="60px" src="icons8-linkedin-48.png" /></a>
-  <a href="https://medium.com/@robertsevan" target="_blank"><img height="60px" width="60px" src="icons8-medium-48.png" /></a>
-  <a href="https://www.behance.net/evanroberts3" target="_blank"><img height="60px" width="60px" src="icons8-behance-48.png" /> </a>
-  <a href="https://www.instagram.com/evanroberts.art/" target="_blank"><img height="60px" width="60px" src="icons8-instagram-48.png" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev">
