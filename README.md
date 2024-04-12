@@ -45,7 +45,6 @@
     <td><ul><li>Extensive Gunpla Database with over 3000 model kits</li><li>User profile creation, to sign up and track their collection and wishlist</li><li>Custom Gunpla API created by us</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Gunpla-Pal" target="_blank">Repo</a></td>
     <td><a href="https://gunpla-pal.vercel.app" target="_blank">Live</a></td>
-    <td><a href="https://youtu.be/RueCd2fHjJM">Demo</a></td>
   </tr>
   <tr>
     <td>Chocotonic</td>
@@ -61,7 +60,6 @@
                       target="_blank"
                     >Repo</a></td>
       <td><a href="https://chocotonic.vercel.app" target="_blank">Live</a></td>
-      <td><a href="https://youtu.be/8Gtq47nJiCY">Demo</a></td>
   </tr>
   <tr>
     <td>Bites&Brews</td>
