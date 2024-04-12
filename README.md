@@ -32,7 +32,6 @@
   <th>Features</th>
   <th>Repo</th>
   <th>Live</th>
-  <th>Demo</th>
 </thead>
 <tbody>
     <tr>
@@ -68,7 +67,6 @@
     <td><ul><li>Full CRUD functionality</li><li>Multiple React Hooks</li><li>Internal Routing</li><li>Our own API</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/Bites-and-Brews" target="_blank">Repo</a></td>
     <td><a href="https://bites-and-brews.vercel.app" target="_blank">Live</a></td>
-    <td></td>
   </tr>
   <tr>
     <td>Pokedex</td>
@@ -77,7 +75,6 @@
     <td><ul><li>PokeApi Connection</li><li>Responsive Design</li><li>Full CRUD Functionality</li></ul></td>
     <td><a href="https://github.com/Evan-Roberts-808/PokeDex" target="_blank">Repo</a></td>
     <td><a href="https://evan-roberts-808.github.io/PokeDex/" target="_blank">Live</a></td>
-    <td></td>
   </tr>
 
 </tbody>
