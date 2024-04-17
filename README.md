@@ -1,7 +1,7 @@
 ![Alt Banner](Banner-2.svg)
 
-<h3 align="left">Currently Learning:</h3>
-<p>Game Dev: Unity & Godot</p>
+<h3 align="left">Currently Working On:</h3>
+<p>freeCodeCamp's entire curriculum</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
