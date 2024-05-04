@@ -1,7 +1,6 @@
 ![Alt Banner](Banner-2.svg)
 
-<h3 align="left">Currently Working On:</h3>
-<p>freeCodeCamp's entire curriculum</p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -21,6 +20,25 @@
     <img src="https://skillicons.dev/icons?i=vscode,unity,ps,ai" />
 </a>
 </p>
+
+<h3 align="left">Currently Working On: freeCodeCamp's entire curriculum</h3>
+<p>Progress:</p>
+<ul>
+    <li><s>Responsive Web Design</s></li>
+    <li><s>JavaScript Algorithms and Data Structures</s></li>
+    <li><s>Front End Development Libraries</s></li>
+    <li>Data Visualization</li>
+    <li>Relational Database</li>
+    <li>Back End Development and APIs</li>
+    <li>Quality Assurance</li>
+    <li>Scientific Computing with Python</li>
+    <li>Data Analysis with Python</li>
+    <li>Information Security</li>
+    <li>Machine Learning</li>
+    <li>College Algebra with Python</li>
+    <li>Foundation C# with Microsoft Certification</li>
+</ul>
+
 <h3><a href="https://gist.github.com/Evan-Roberts-808">View My Gists</a></h3>
 <h3 align="left">Projects:</h3>
 
