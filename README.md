@@ -21,7 +21,11 @@
 </a>
 </p>
 
-<h3 align="left">Currently Working On: Foundationl C# with Microsoft Certification</h3>
+<h3 align="left">Currently Working On:</h3>
+<ul>
+<li>Foundationl C# with Microsoft Certification</li>
+<li>Node.js, Express, MongoDB & More: The Complete Bootcamp</li>
+</ul>
 
 
 
