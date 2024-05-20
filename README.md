@@ -25,6 +25,7 @@
 <ul>
 <li>Foundationl C# with Microsoft Certification</li>
 <li>Node.js, Express, MongoDB & More: The Complete Bootcamp</li>
+<li>AWS Certified Cloud Practitioner Foundational Certification</li>
 </ul>
 
 
