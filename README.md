@@ -5,7 +5,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,py,css,html,java" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,py,css,html" />
 </a>
 </p>
 <h3 align="left">Technologies:</h3>
