@@ -23,15 +23,14 @@
 
 <h3 align="left">Currently Working On:</h3>
 <ul>
-<li>Node.js, Express, MongoDB & More: The Complete Bootcamp</li>
+<li>JavaScript Algorithms and Data Structures Masterclass</li>
+<li>Modern Web Scraping with Python</li>
 </ul>
 
 <h3 align="left">What I want to do next:</h3>
 <ul>
     <li>Master modern React - Next.js, Context API, React Query, Redux, Tailwind, advanced patterns</li>
     <li>AWS Certified Cloud Practitioner CLF-C02</li>
-    <li>JavaScript Algorithms and Data Structures Masterclass</li>
-    <li>Modern Web Scraping with Python</li>
     <li>Complete SQL Bootcamp</li>
     <li>Complete Linux Bootcamp</li>
     <li>Complete Godot 2D Bootcamp</li>
