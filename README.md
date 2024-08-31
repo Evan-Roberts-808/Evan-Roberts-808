@@ -23,18 +23,12 @@
 
 <h3 align="left">Currently Working On:</h3>
 <ul>
-<li>JavaScript Algorithms and Data Structures Masterclass</li>
-<li>Modern Web Scraping with Python</li>
+
 </ul>
 
 <h3 align="left">What I want to do next:</h3>
 <ul>
-    <li>Master modern React - Next.js, Context API, React Query, Redux, Tailwind, advanced patterns</li>
-    <li>AWS Certified Cloud Practitioner CLF-C02</li>
-    <li>Complete SQL Bootcamp</li>
-    <li>Complete Linux Bootcamp</li>
-    <li>Complete Godot 2D Bootcamp</li>
-    <li>Complete Blender 3D Modelling Bootcamp</li>
+
 </ul>
 
 <h3><a href="https://gist.github.com/Evan-Roberts-808">View My Gists</a></h3>
