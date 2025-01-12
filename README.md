@@ -11,18 +11,26 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,react,bootstrap,nodejs,express,sequelize,flask,postgres,postman,jest,git,godot,unity,ps,ai,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=aws,react,bootstrap,nodejs,express,sequelize,flask,postgres,postman,git,unity,ps,ai,figma,vite" />
+</a>
+</p>
+
+<h3 align="left">Currently Learning:</h3>
+
+<p align="left"> 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,jest" />
 </a>
 </p>
 
 <h3 align="left">Planning to Learn:</h3>
-<ul>
+
 <p align="left"> 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,redux,swift,docker" />
 </a>
 </p>
-</ul>
+
 
 <h3 align="left">Stats:</h3>
 <div align="left">
