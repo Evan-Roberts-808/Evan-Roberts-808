@@ -11,7 +11,7 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,react,bootstrap,nodejs,express,sequelize,flask,postgres,postman,git,unity,ps,ai,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=aws,react,bootstrap,nodejs,express,sequelize,flask,postgres,postman,jest,git,unity,ps,ai,figma,vite" />
 </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,jest" />
+    <img src="https://skillicons.dev/icons?i=godot,docker" />
 </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,redux,swift,docker" />
+    <img src="https://skillicons.dev/icons?i=kotlin,redux,swift" />
 </a>
 </p>
 
