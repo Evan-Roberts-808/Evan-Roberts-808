@@ -1,7 +1,3 @@
-![Alt Banner](Banner-2.svg)
-
-
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev">
