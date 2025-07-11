@@ -19,7 +19,7 @@
 
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot" />
+    <img src="https://skillicons.dev/icons?i=godot,kotlin,androidstudio" />
 </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,redux,swift" />
+    <img src="https://skillicons.dev/icons?i=swift" />
 </a>
 </p>
 
