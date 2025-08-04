@@ -33,10 +33,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-roberts-808&layout=compact&theme=tokyonight" />
 </div>
 
-<h3 align="left">&nbsp;Heres What I'm Listening To:</h3>
-
-<p align="left"><a href="https://www.data-card-for-spotify.com/card?user_id=leoslastwill">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=leoslastwill">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=leoslastwill" alt="Data Card for Spotify">
-</a>
-</a></p>
